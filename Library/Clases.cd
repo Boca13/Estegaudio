@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Chat">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Chat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Codec">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAQAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAA=</HashCode>
+      <FileName>Codec.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Encrypt">
+    <Position X="4.5" Y="3" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAEIAAA=</HashCode>
+      <FileName>Encrypt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Estegaudio">
+    <Position X="1" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAEAAAEAAAMQEAAAAAgAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Estegaudio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Red">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="Red::hash" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Red.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Typedef Name="Red::mensaje" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Red.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Struct Name="Red::__unnamed_struct_0034_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Red.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAABABAAAAAAgAAAAAAAABAAAAIAASAAIAoAAAAAAA=</HashCode>
+      <FileName>Red.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sonido">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Typedef Name="Sonido::sonido" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sonido.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+      <Struct Name="Sonido::__unnamed_struct_0036_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sonido.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AgAAAAAIAAAAAAAAAAgAAAAAAAAAAAAIAAAAAEAAAAA=</HashCode>
+      <FileName>Sonido.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

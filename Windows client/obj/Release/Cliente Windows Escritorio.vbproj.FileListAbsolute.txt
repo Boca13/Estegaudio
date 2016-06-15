@@ -1,0 +1,16 @@
+C:\vs\Estegaudio\Cliente Windows\bin\Release\Cliente Windows.exe.config
+C:\vs\Estegaudio\Cliente Windows\bin\Release\Cliente Windows.exe
+C:\vs\Estegaudio\Cliente Windows\bin\Release\Cliente Windows.pdb
+C:\vs\Estegaudio\Cliente Windows\bin\Release\Cliente Windows.xml
+C:\vs\Estegaudio\Cliente Windows\bin\Release\Estegaudio.dll
+C:\vs\Estegaudio\Cliente Windows\bin\Release\Estegaudio.pdb
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente_Windows.Chat.resources
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente_Windows.Chats.resources
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente_Windows.Form1.resources
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente_Windows.Mensaje.resources
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente_Windows.Resources.resources
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente Windows Escritorio.vbproj.GenerateResource.Cache
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente Windows.exe
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente Windows.xml
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente Windows.pdb
+C:\vs\Estegaudio\Cliente Windows\obj\Release\Cliente Windows Escritorio.vbprojResolveAssemblyReference.cache

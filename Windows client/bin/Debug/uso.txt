@@ -1,0 +1,6 @@
+aescrypt -e -p contraseña barranco.jpg
+
+
+aescrypt -d -p contraseña barranco.jpg.aes
+
+
